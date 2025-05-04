@@ -47,8 +47,14 @@ Aqui minhas **Redes Sociais:**
 ## Informações do GitHub
 Umas informações do meu GitHub
 
-![VickHub123's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=VickHub123&&theme=dark)
+<a href="https://github.com/VickHub123">
+  <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=VickHub123&&theme=dark" alt="Readme Card">
+</a>
 
-![VickHub123's GitHub stats](https://github-readme-stats.vercel.app/api?username=VickHub123&show_icons=true&theme=dark)
+<a href="https://github.com/VickHub123">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=VickHub123&show_icons=true&theme=dark" alt="Readme Card">
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickHub123&layout=compact&theme=dark)
+<a href="https://github.com/VickHub123">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VickHub123&layout=compact&theme=dark" alt="Readme Card">
+</a>
