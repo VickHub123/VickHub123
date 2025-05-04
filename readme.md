@@ -1,4 +1,4 @@
-## Oie! 💖
+## Oie Pessoal! 💖
 
 Sou a **Vick**! Programo por diversão no meu tempo livre. Atualmente eu estou trabalhando no **DEX Launcher** (Inclusive dá uma olhada lá) 
 
