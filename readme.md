@@ -35,9 +35,14 @@ Aqui minhas **Redes Sociais:**
 
 ## No que estou trabalhando
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VickHub123&repo=dex_launcher&theme=dark)](https://github.com/VickHub123/dex_launcher)
+<a href="https://github.com/herrerde/SubwayBooster">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=VickHub123&repo=dex_launcher&theme=dark" alt="Readme Card">
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VickHub123&repo=ajuurso-game2&theme=dark)](https://github.com/VickHub123/ajuurso-game2)
+<a href="https://github.com/herrerde/subway-source">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=VickHub123&repo=ajuurso-game2&theme=dark" alt="Readme Card">
+</a>
+
 
 ## Informações do GitHub
 Umas informações do meu GitHub
