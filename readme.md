@@ -35,11 +35,11 @@ Aqui minhas **Redes Sociais:**
 
 ## No que estou trabalhando
 
-<a href="https://github.com/herrerde/SubwayBooster">
+<a href="https://github.com/VickHub123/dex_launcher">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=VickHub123&repo=dex_launcher&theme=dark" alt="Readme Card">
 </a>
 
-<a href="https://github.com/herrerde/subway-source">
+<a href="https://github.com/VickHub123/ajuurso-game2">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=VickHub123&repo=ajuurso-game2&theme=dark" alt="Readme Card">
 </a>
 
