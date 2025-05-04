@@ -28,7 +28,7 @@ Aqui minhas **Redes Sociais:**
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="45" height="40" alt="linktree logo"  />
   </a>
   <a href="https://pt.pronouns.page/@VickTheCool">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/defaulte.svg" width="45" height="40" alt="pronouns page logo"  />
+    <img src="https://raw.githubusercontent.com/VickHub123/VickHub123/blob/main/readme%20(arquivos)/logo-primary.svg" width="45" height="40" alt="pronouns page logo"  />
   </a>
 </div>
 
