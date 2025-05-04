@@ -52,7 +52,7 @@ Umas informações do meu GitHub
 </a>
 
 <a href="https://github.com/VickHub123">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=VickHub123&show_icons=true&theme=dark" alt="Readme Card">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=VickHub123&show_icons=true&theme=dark" width="490" height="190" alt="Readme Card">
 </a>
 
 <a href="https://github.com/VickHub123">
