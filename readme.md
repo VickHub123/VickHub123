@@ -46,4 +46,4 @@ Umas informações do meu GitHub
 
 ![VickHub123's GitHub stats](https://github-readme-stats.vercel.app/api?username=VickHub123&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickHub123&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickHub123&layout=compact&theme=dark)
