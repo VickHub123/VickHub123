@@ -1,14 +1,13 @@
 ## Oie Pessoal! 💖
 
-Sou a **Vick**! Programo por diversão no meu tempo livre. Atualmente eu estou trabalhando no **DEX Launcher** (Inclusive dá uma olhada lá) 
+Sou a **Vick**! Programo por diversão no meu tempo livre. Atualmente eu estou trabalhando no **Card Finder** e no futuro **STAR Launcher**
 
 Sou Gênero Fluido, Panrromântica e Assexual (dá uma olhadinha no meu **pronouns.page**) 
 
-Caso queira ver no que estou trabalhando, estou (quase) sempre postando coisas no meu Canal do **Whatsapp**
 
 ## Sobre Mim
 
-Programo em **sb3** no **TurboWarp** (uma modificação do Scratch) e faço uns joguinhos em **HTML**. Sobre linguagens que dão futuro eu **sei (quase nada)** de **python**
+Programo em **sb3** no **TurboWarp** (uma modificação do Scratch) e faço uns joguinhos em **HTML**. Sobre linguagens que dão futuro eu **sei mais ou menos** de **python**
 
 ![Readme Card](https://skillicons.dev/icons?i=html,github&perline=8)
 
@@ -35,8 +34,10 @@ Aqui minhas **Redes Sociais:**
 
 ## No que estou trabalhando
 
+* Todos os meus jogos recentes estão em um repositório só, para facilitar um pouco a vida
+
 <a href="https://github.com/VickHub123/dex_launcher">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=VickHub123&repo=dex_launcher&theme=dark" alt="Readme Card">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=VickHub123&repo=my-games&theme=dark" alt="Readme Card">
 </a>
 
 <a href="https://github.com/VickHub123/ajuurso-game2">
@@ -45,7 +46,7 @@ Aqui minhas **Redes Sociais:**
 
 
 ## Informações do GitHub
-Umas informações do meu GitHub
+Umas informações do meu GitHub (alguns estão quebrados e eu não sei arrumar)
 
 <a href="https://github.com/VickHub123">
   <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=VickHub123&&theme=dark" alt="Readme Card">
